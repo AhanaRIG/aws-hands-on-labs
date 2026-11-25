@@ -22,6 +22,7 @@ objective, architecture, implementation, and verification.
 
 Detailed lab documentation is maintained in the [docs](./docs/) directory.
 
+
 ## What Each Lab Includes
 
 - A practical objective and expected outcome
